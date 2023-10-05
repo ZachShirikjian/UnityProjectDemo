@@ -1,4 +1,5 @@
-#Cubey's World - a Unity Tutorial Project
+ABOUT CUBEY'S WORLD
+
 A simple 2D platformer starring Cubey, where they must collect all the coins in a level to move onto the next one.
 This project is used for introducing incoming teens at Artists for Humanity to Unity engine, where they follow along
 this series to 
